@@ -1,0 +1,5 @@
+name: AuthmePremiumLogin
+version: ${project.version}
+main: koral.authmepremiumlogin.AuthmePremiumLogin
+api-version: 1.16
+authors: [ koral ]
